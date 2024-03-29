@@ -1,5 +1,4 @@
-ton.html
-<!Doctype html>
+
 <html>
 <head>
 <title>College CoST</title>
